@@ -1,0 +1,64 @@
+h1{
+    color: cadetblue;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    border:2px solid cadetblue;
+    flex-direction: column;
+}
+
+.header{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.qual{
+    display: flex;
+    gap: 10px;
+    margin-left: 510px;
+}
+
+.line{
+    color:rgb(20, 7, 204);
+}
+
+.form-control:focus{
+    box-shadow: none;
+}
+
+.details{
+    display: flex;
+    flex-direction: column;
+}
+
+.rowone{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.rowtwo{
+    display: flex;
+    justify-content:space-around;
+    margin-top: 30px;
+}
+
+.row3{
+    display: flex;
+    flex-direction: column;
+}
+
+.notes{
+    height: 400px;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

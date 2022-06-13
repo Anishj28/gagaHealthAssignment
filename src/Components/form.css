@@ -1,0 +1,18 @@
+.navbar{
+    display: flex;
+    background-color: cornflowerblue;
+    color: white;
+    justify-content:center;
+    padding: 15px;
+}
+
+.form{
+    margin-top: 20px;
+    width: 60%;
+    text-align: center;
+}
+
+.submit{
+    margin-top: 20px;
+}
+
